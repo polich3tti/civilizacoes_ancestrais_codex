@@ -1,10 +1,10 @@
-# Civilizações Ancestrais
-Primeiro projeto Python em desenvolvimento. Biblioteca de estudos contendo dados sobre variadas civilizações antigas.
+# Sociedades Ancestrais
+Primeiro projeto Python.
+Em desenvolvimento.
 
 # Sobre o projeto
 ```python
-Civilizacoes Ancestrais é uma biblioteca em Python com dados históricos sobre variadas civilizacoes antigas.
-Primeiro projeto como iniciante.
+Sociedades Ancestrais é uma biblioteca em Python com dados históricos sobre variadas civilizacoes antigas.
 ``` 
 # Como funciona?
 ```python
